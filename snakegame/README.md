@@ -1,4 +1,4 @@
-# This is a game created using python 
+#Snake Game (Readme.md)
 
 There are four python files in this project:
               1) main.py
