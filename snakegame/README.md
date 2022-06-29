@@ -13,10 +13,10 @@
 
 ## About The Project
 ### main.py
-    - This is the main file of the project
-    - The screen is set to be 600px * 800px
-    - The snake is created in snake.py file
-    - The snake is controlled using four arrow keys of the keyboard
+    1. This is the main file of the project
+    2. The screen is set to be 600px * 800px
+    3. The snake is created in snake.py file
+    4. The snake is controlled using four arrow keys of the keyboard
 ### snake.py
     This file contains a Snake class . 
     Functional requirements:
