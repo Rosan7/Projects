@@ -1,4 +1,4 @@
-#Snake Game (Readme.md)
+#Snake Game
 
 There are four python files in this project:
               1) main.py
