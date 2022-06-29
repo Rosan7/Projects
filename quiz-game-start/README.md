@@ -1,4 +1,4 @@
-# **Snake Game**
+# **Quiz Trivia**
 
 - Table of Content
   - About the Project
