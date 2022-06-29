@@ -1,4 +1,4 @@
-# **Coffee Maker**
+# **Coffee Machine**
 
 - Table of Content
   - About the Project
