@@ -12,6 +12,7 @@
 
 
 ## About The Project
+### Functional Requirements
 ### main.py
     1. This is the main file of the project 
     2. This takes in orders of the customer and tries to complete the order if the requirements are satisfied.
@@ -37,6 +38,8 @@
     2. report : This method prints the current profit.
     3. process_coins : Returns the total calculated from coins inserted
     4. make_payment : "Returns True when payment is accepted and gives a change , or False if insufficient
+### Non functional requirements :
+    
 ## Built with
     - Pycharm editor
 ## Prequisites
